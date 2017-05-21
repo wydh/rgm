@@ -1,0 +1,6 @@
+*.dat
+*.nc
+*.o
+*.mod
+*.data
+fort.*
